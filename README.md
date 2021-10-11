@@ -9,7 +9,7 @@ This repository contains the Enterprise Programming end-of-semester project. It'
 | Oracle            | Database         |
 | Apache Tomcat 9.0 | Web Impementation|
 
-### Demo on
+### Live Demo
 https://zarisa-boutique.herokuapp.com/ 
 
 Alternatively, you may view the code by downloading the war file and importing it into Eclipse
